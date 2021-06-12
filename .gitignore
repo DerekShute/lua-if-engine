@@ -1,0 +1,8 @@
+*~
+luac.out
+*.luac
+Interactive-Fiction
+luacov.report.out
+luacov.stats.out
+*.dot
+*.svg

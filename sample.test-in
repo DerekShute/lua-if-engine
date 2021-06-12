@@ -1,0 +1,34 @@
+w
+open door
+w
+examine door
+close door
+examine door
+open door
+e
+e
+examine flashlight
+open stove
+examine stove
+take flashlight
+take flashlight
+drop flashlight
+take flashlight
+examine flashlight
+turnon flashlight
+examine flashlight
+turnoff flashlight
+look
+open door
+turnon flashlight
+d
+u
+close door
+look
+w
+s
+examine tv
+turnon tv
+examine tv
+turnoff tv
+quit
