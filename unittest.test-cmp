@@ -1,0 +1,151 @@
+Starting Unit Test World
+Version 1.0
+
+Test0 Empty Room
+look callback, test0: empty room
+
+>Beg pardon?
+
+>Test0 Empty Room
+look callback, test0: empty room
+
+>Test1 Title
+look callback (function), test1.  Prop1 should not be a shown object (Thing2 still INITIAL) Thing1 state is 'thing1state'.
+Thing1 implements look method.
+There is a thing2 here.
+
+>Departing test1
+
+Test0 Empty Room
+
+>Test1 Title
+
+>Examining thing1
+
+>Examining thing1
+
+>Examining thing2.
+
+>Examining prop1 in test1, as prop.
+
+>Failing to take prop1 called prop.
+
+>You are not holding anything.
+
+>Failing to take thing1.
+
+>Test1 Title
+look callback (function), test1.  Prop1 should not be a shown object (Thing2 still INITIAL) Thing1 state is 'thing1state'.
+Thing1 implements look method.
+There is a thing2 here.
+
+>You take the second thing.
+
+>Test1 Title
+look callback (function), test1.  Prop1 should not be a shown object (Thing2 not INITIAL) Thing1 state is 'thing1state'.
+Thing1 implements look method.
+
+>There is no 'thing3' here.
+
+>There is no 'thing3' here.
+
+>Departing test1
+
+Test2 Title
+look callback, test2
+There is a thing3 here.
+There is a lantern here.
+everywhere1 in rooms test2 and test3 (look)
+
+>Examining prop2 in test2, as prop.
+
+>Failing to take prop2 called prop.
+
+>You drop the second thing.
+
+>You take the third thing.
+
+>Test2 Title
+look callback, test2
+There is a lantern here.
+everywhere1 in rooms test2 and test3 (look)
+There is a thing2 here.
+
+>You drop the third thing.
+
+>You do not have the third thing.
+
+>Test2 Title
+look callback, test2
+There is a lantern here.
+everywhere1 in rooms test2 and test3 (look)
+There is a thing2 here.
+There is a thing3 here.
+
+>You take the third thing.
+
+>Test2 Title
+look callback, test2
+There is a lantern here.
+everywhere1 in rooms test2 and test3 (look)
+There is a thing2 here.
+
+>You take the second thing.
+
+>Test2 Title
+look callback, test2
+There is a lantern here.
+everywhere1 in rooms test2 and test3 (look)
+
+>You are currently holding:  thing3  thing2 .
+
+>Departing test2
+
+Test1 Title
+
+>Test1 Title
+look callback (function), test1.  Prop1 should not be a shown object (Thing2 not INITIAL) Thing1 state is 'thing1state'.
+Thing1 implements look method.
+
+>Departing test1
+
+Test2 Title
+
+>You take the lantern.
+
+>Departing test2
+
+You are in a dark place.
+
+>Turns on.
+
+Test3 Title
+look callback, test3
+everywhere1 in rooms test2 and test3 (look)
+
+>Turns off.
+
+You are in total darkness.
+
+>Turns on.
+
+Test3 Title
+look callback, test3
+everywhere1 in rooms test2 and test3 (look)
+
+>Test2 Title
+
+>Departing test2
+
+Test3 Title
+
+>You drop the lantern.
+
+>Test2 Title
+
+>Departing test2
+
+Test3 Title
+
+>Quitting game
+

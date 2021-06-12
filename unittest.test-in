@@ -1,0 +1,45 @@
+
+look
+w
+e
+go west
+examine thing1
+examine t1
+examine thing2
+examine prop
+take prop
+inventory
+take thing1
+look
+take thing2
+look
+take thing3
+drop thing3
+w
+examine prop
+take prop
+drop thing2
+take thing3
+look
+drop thing3
+drop thing3
+look
+take thing3
+look
+take thing2
+look
+inventory
+e
+look
+w
+take lantern
+w
+turnon lantern
+turnoff lantern
+turnon lantern
+e
+w
+drop lantern
+e
+w
+quit
